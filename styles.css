@@ -49,3 +49,14 @@ nav a {
   border-top: 1px solid #e6e8ef;
   border-bottom: 0;
 }
+
+.footer-content {
+  display: grid;
+  gap: 8px;
+}
+
+.photo-credits {
+  margin: 0;
+  color: #4a5260;
+  font-size: 0.95rem;
+}
